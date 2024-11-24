@@ -1,0 +1,9 @@
+{
+    "name": {
+        "long": "PolarFrankie Script",
+        "short": "PolarFrankie"
+    },
+    "web": {
+        "host": "frankie.ender.ing"
+    }
+}
